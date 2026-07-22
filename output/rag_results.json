@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Who has experience with Python and Spark?",
+    "dense_top3": [
+      "app_1006_25_c0",
+      "app_1006_26_c0",
+      "app_1006_27_c0"
+    ],
+    "bm25_top3": [
+      "app_1002_10_c0",
+      "app_1002_11_c0",
+      "app_1006_27_c0"
+    ],
+    "rrf_top3": [
+      "app_1006_25_c0",
+      "app_1006_26_c0",
+      "app_1006_27_c0"
+    ],
+    "final_after_rerank": [
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 7.350399971008301
+      },
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 7.350399971008301
+      },
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 7.350399971008301
+      }
+    ]
+  },
+  {
+    "question": "What jobs are available in Riyadh?",
+    "dense_top3": [
+      "job_4_3_c0",
+      "job_2_1_c0",
+      "job_1_0_c0"
+    ],
+    "bm25_top3": [
+      "job_4_3_c0",
+      "job_1_0_c0",
+      "app_1001_8_c0"
+    ],
+    "rrf_top3": [
+      "job_4_3_c0",
+      "job_1_0_c0",
+      "app_1004_17_c0"
+    ],
+    "final_after_rerank": [
+      {
+        "source": "Job #1 — Frontend Developer",
+        "score": 5.8887786865234375
+      },
+      {
+        "source": "Job #4 — Backend Developer",
+        "score": 5.565348148345947
+      },
+      {
+        "source": "applicant #1004 — Noura Fahad",
+        "score": 5.088866710662842
+      }
+    ]
+  },
+  {
+    "question": "Which job offers the highest salary?",
+    "dense_top3": [
+      "job_3_2_c0",
+      "job_1_0_c0",
+      "job_4_3_c0"
+    ],
+    "bm25_top3": [
+      "job_3_2_c0",
+      "job_2_1_c0",
+      "job_4_3_c0"
+    ],
+    "rrf_top3": [
+      "job_3_2_c0",
+      "job_2_1_c0",
+      "job_4_3_c0"
+    ],
+    "final_after_rerank": [
+      {
+        "source": "Job #5 — Machine Learning Engineer",
+        "score": -5.317893028259277
+      },
+      {
+        "source": "Job #1 — Frontend Developer",
+        "score": -5.611886978149414
+      },
+      {
+        "source": "Job #4 — Backend Developer",
+        "score": -5.721427917480469
+      }
+    ]
+  },
+  {
+    "question": "Who are the suitable candidates for the Machine Learning Engineer position?",
+    "dense_top3": [
+      "app_1005_21_c0",
+      "app_1005_22_c0",
+      "app_1005_23_c0"
+    ],
+    "bm25_top3": [
+      "job_5_4_c0",
+      "app_1008_36_c0",
+      "app_1008_33_c0"
+    ],
+    "rrf_top3": [
+      "job_5_4_c0",
+      "app_1005_21_c0",
+      "app_1008_33_c0"
+    ],
+    "final_after_rerank": [
+      {
+        "source": "applicant #1005 — Faisal Ahmed",
+        "score": 5.257576942443848
+      },
+      {
+        "source": "applicant #1005 — Faisal Ahmed",
+        "score": 5.257576942443848
+      },
+      {
+        "source": "applicant #1005 — Faisal Ahmed",
+        "score": 5.257576942443848
+      }
+    ]
+  },
+  {
+    "question": "Who has more than 4 years of experience?",
+    "dense_top3": [
+      "app_1002_9_c0",
+      "app_1002_10_c0",
+      "app_1002_11_c0"
+    ],
+    "bm25_top3": [
+      "app_1008_36_c0",
+      "app_1008_35_c0",
+      "app_1008_33_c0"
+    ],
+    "rrf_top3": [
+      "app_1002_10_c0",
+      "app_1002_9_c0",
+      "app_1002_11_c0"
+    ],
+    "final_after_rerank": [
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 5.394246578216553
+      },
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 5.394246578216553
+      },
+      {
+        "source": "applicant #1002 — Sara Khalid",
+        "score": 5.394246578216553
+      }
+    ]
+  }
+]

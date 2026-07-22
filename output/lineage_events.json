@@ -1,0 +1,20 @@
+[
+  {
+    "job":"quality_gate_silver",
+    "state":"START",
+    "run_id":"019f8b83-6011-7b68-bcc4-15a365cd7a63",
+    "time":"2026-07-22T20:27:50.674064+00:00"
+  },
+  {
+    "job":"quality_gate_silver_BAD",
+    "state":"START",
+    "run_id":"019f8b83-ea3b-7fb8-98d7-d1e9c69116cb",
+    "time":"2026-07-22T20:28:26.043319+00:00"
+  },
+  {
+    "job":"quality_gate_silver_BAD",
+    "state":"FAIL",
+    "run_id":"019f8b83-ea3b-7fb8-98d7-d1e9c69116cb",
+    "time":"2026-07-22T20:28:26.048841+00:00"
+  }
+]

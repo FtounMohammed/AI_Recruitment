@@ -1,0 +1,6 @@
+job_id,title,company,city,salary,required_skills,experience_years
+1,Frontend Developer,Tech Vision,Riyadh,12000,"Vue.js,JavaScript,HTML,CSS",2
+2,Data Engineer,AI Labs,Jeddah,18000,"Python,Spark,Kafka",4
+3,UI Designer,Creative Hub,Dammam,9000,"Figma,UX",1
+4,Backend Developer,Future Tech,Riyadh,15000,"Node.js,SQL,Laravel",3
+5,Machine Learning Engineer,Smart Systems,Jeddah,22000,"Python,TensorFlow,Pandas",5

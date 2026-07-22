@@ -1,0 +1,9 @@
+applicant_id,job_id,name,education,experience_years,skills
+1001,1,Ahmed Ali,Bachelor,2,"Vue.js,HTML,CSS"
+1002,2,Sara Khalid,Master,4,"Python,Spark,Kafka"
+1003,3,Mohammed Salem,Bachelor,1,"Figma,UX"
+1004,4,Noura Fahad,Bachelor,3,"Node.js,SQL,Laravel"
+1005,5,Faisal Ahmed,Master,5,"Python,TensorFlow,Pandas"
+1006,1,Hind Abdullah,Bachelor,1,"HTML,CSS"
+1007,2,Abdulrahman Saad,Bachelor,2,"Python,SQL"
+1008,5,Reem Saleh,Master,4,"TensorFlow,Python"
